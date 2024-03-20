@@ -1,0 +1,25 @@
+Test Details for Registration:
+
+Username: JAtkin289
+Email: jatkin289@gmail.com
+Password: JAtk!n2890
+Forgot Pass Test: JAtk!n3670
+
+Test Details for Email used in Forgot Password:
+
+Username: testIndividualSussex1@gmail.com
+Password: Su$$ex86Pass!
+App Password: pwqd jnxh glgi cxxg
+
+#To test transcation in Transactions page, server must be ran first.
+Test Node Addresses for Transaction: 
+
+1.a12bc34d56ef78a90b12cd34ef56ab78c12d34ef56a90b12cd34ef56a90b12c0
+2.00112233445566778899aabbccddeeff00112233445566778899aabbccddeeff
+3.0f1e2d3c4b5a6f7890a1b2c3d4e5f6780a1b2c3d4e5f6780a1b2c3d4e5f6780a
+4.fabcdeab1234abcd5678efab9012cd34ab56ef7890abcdef1234567890abcdef
+5.fedcba9876543210abcdef1234567890fedcba9876543210abcdef1234567890
+
+#In the event connection can not be made to database to test authentication 
+system, to proceed to main application - in main.py, comment out widget.show(), and uncomment UIWindow.show()
+to view main application.
